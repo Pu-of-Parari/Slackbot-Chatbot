@@ -41,8 +41,10 @@ About `slackbot_settings.py`, it is necessary to change to your own `API_TOKEN`.
 # 2. Run
 Executing `run.py`
 
-You can chat with bot after the bot account on slack comes online. Enjoy :)
-
 `python run.py`
 
-![screenshot](https://github.com/Pu-of-Parari/Slackbot-Chatbot/edit/master/slackbot.png)
+You can chat with bot after the bot account on slack comes online. Enjoy :)
+
+<br>
+
+![screenshot](https://github.com/Pu-of-Parari/Slackbot-Chatbot/blob/master/slackbot.png)
